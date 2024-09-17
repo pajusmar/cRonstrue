@@ -181,7 +181,6 @@ cronstrue.toString("*/5 * * * *", { locale: "es" }); // => Cada 5 minutos
 
 The following locales can be passed in for the `locale` option.  Thank you to the author (shown below) of each translation!
 
-- en - English ([Brady Holt](https://github.com/bradymholt))
 - af - Afrikaans ([Michael van Niekerk](https://github.com/mvniekerk))
 - ar - Arabic ([Mohamed Nehad Shalabi](https://github.com/mohamednehad450))
 - be - Belarusian ([Kirill Mikulich](https://github.com/KirillMikulich))
@@ -190,7 +189,9 @@ The following locales can be passed in for the `locale` option.  Thank you to th
 - cs - Czech ([hanbar](https://github.com/hanbar))
 - da - Danish ([Rasmus Melchior Jacobsen](https://github.com/rmja))
 - de - German ([Michael Schuler](https://github.com/mschuler))
+- en - English ([Brady Holt](https://github.com/bradymholt))
 - es - Spanish ([Ivan Santos](https://github.com/ivansg))
+- et - Estonian ([Martin Pajuste](https://github.com/pajusmar))
 - fa - Farsi ([A. Bahrami](https://github.com/alirezakoo))
 - fi - Finnish ([Mikael Rosenberg](https://github.com/MR77FI))
 - fr - French ([Arnaud TAMAILLON](https://github.com/Greybird))
@@ -211,9 +212,9 @@ The following locales can be passed in for the `locale` option.  Thank you to th
 - ru - Russian ([LbISS](https://github.com/LbISS))
 - sk - Slovakian ([hanbar](https://github.com/hanbar))
 - sl - Slovenian ([Jani Bevk](https://github.com/jenzy))
-- sw - Swahili ([Leylow Lujuo](https://github.com/leyluj))
-- sv - Swedish ([roobin](https://github.com/roobin))
 - sr - Serbian ([Miloš Paunović](https://github.com/MilosPaunovic))
+- sv - Swedish ([roobin](https://github.com/roobin))
+- sw - Swahili ([Leylow Lujuo](https://github.com/leyluj))
 - th - Thai ([Teerapat Prommarak](https://github.com/xeusteerapat))
 - tr - Turkish ([Mustafa SADEDİL](https://github.com/sadedil))
 - uk - Ukrainian ([Taras](https://github.com/tbudurovych))
